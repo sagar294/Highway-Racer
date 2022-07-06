@@ -1,9 +1,6 @@
 # Highway-Racer
 
 
-<iframe width="814" height="458" src="https://www.youtube.com/embed/oLtbNQZEmmA" title="Highway Racer V3.5 | Unity Asset Store Complete Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
  Highway Racer is physics based endless racing game against traffic. Dodge traffic vehicles at high speeds, earn score, buy&upgrade your rides.
 
  Wanna create your own endless highway racing game? Package contains all necessary assets in this one single package! All player vehicles are powered by Realistic Car Controller.
