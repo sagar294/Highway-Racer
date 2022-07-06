@@ -1,9 +1,9 @@
 # Highway-Racer
 
 
-Highway Racer is physics based endless racing game against traffic. Dodge traffic vehicles at high speeds, earn score, buy&upgrade your rides.
+ Highway Racer is physics based endless racing game against traffic. Dodge traffic vehicles at high speeds, earn score, buy&upgrade your rides.
 
-Wanna create your own endless highway racing game? Package contains all necessary assets in this one single package! All player vehicles are powered by Realistic Car Controller.
+ Wanna create your own endless highway racing game? Package contains all necessary assets in this one single package! All player vehicles are powered by Realistic Car Controller.
 
 ## Package Contains
 
@@ -30,19 +30,11 @@ Wanna create your own endless highway racing game? Package contains all necessar
   * All systems are related with editor scripts.
   * Clean code, written in C#.
   * Easy to use, highly customizable.
-  * Detailed and updated online documentation.
   * All materials are compatible with [URP]. Project can be upgraded to URP easily.
-  * Guaranteed support
 
 ## Full PDF Documentation for;
 
-* Creating & Configurating New Vehicles.
-* Creating & Configurating New Levels.
-* Configurating Main Menu, Options, Canvases, Score Systems, Multipliers, etc...
-* Optimization On Levels.
-
-I'll keep project updated. So, don't worry about future updates, fixes, and improvements.
-
-Your reviews are most valued for us. Please don't hesitate to writing a review to us.
-
-* Soundtracks used in webdemo is not included in the package. These licensed soundtrack store links are referred in documentation.
+ * Creating & Configurating New Vehicles.
+ * Creating & Configurating New Levels.
+ * Configurating Main Menu, Options, Canvases, Score Systems, Multipliers, etc...
+ * Optimization On Levels.
